@@ -21,4 +21,6 @@ After preparing the data, I trained a Random Forest Classifier on the resampled 
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/318ca213-55e2-4db4-9043-2077bcb9ce3a)
+
 
