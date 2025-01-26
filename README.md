@@ -27,3 +27,5 @@ After preparing the data, I trained a Random Forest Classifier on the resampled 
 
 ![Image](https://github.com/user-attachments/assets/2feb8872-87be-4354-938d-840486c6bc80)
 
+![Image](https://github.com/user-attachments/assets/239e3ba0-9b60-426f-91ff-d90a4106702b)
+
